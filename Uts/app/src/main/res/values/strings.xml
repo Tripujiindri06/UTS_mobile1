@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS_mobile1</string>
+    <string name="hp_name">Nama Hp</string>
+    <string name="detail">Detail</string>
+    <string name="About">About</string>
+    <string name="harga">Rp.</string>
+    <string name="fitur">Fitur</string>
+</resources>
